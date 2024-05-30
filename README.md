@@ -1,0 +1,1 @@
+The aim of this project is to understand how to get data from API's and how to integrate them into the code base in a simple manner
